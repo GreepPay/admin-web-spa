@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/GreepPay/web-app-server.git
+[submodule "app"]
+	path = app
+	url = https://github.com/GreepPay/admin-web-app.git
+[submodule "logic"]
+	path = logic
+	url = https://github.com/GreepPay/AdminFrontendLogic.git
+[submodule "uicomponents"]
+	path = uicomponents
+	url = https://github.com/GreepPay/AdminUIComponents.git
